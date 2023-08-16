@@ -1,0 +1,3 @@
+package errSys
+
+var ()
